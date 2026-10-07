@@ -1,0 +1,12 @@
+# 测试截图（约 5MB，不入库）
+test/shots/
+test/shots2/
+test/shots3/
+
+# 调试生成产物与旧版本副本
+test/hooked.html
+uploads/
+
+# 系统 / 编辑器
+.DS_Store
+*.swp
